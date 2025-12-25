@@ -348,7 +348,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Thirulok Sundar Mohan Rasu**
-- GitHub: Thiruloksundar(https://github.com/Thiruloksundar)
+- GitHub: [Thiruloksundar](https://github.com/Thiruloksundar)
 - LinkedIn: [thirulok-sundar-mohanrasu](https://linkedin.com/in/thirulok-sundar-mohanrasu)
 - Email: thirulok@umich.edu
 
