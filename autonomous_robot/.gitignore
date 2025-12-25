@@ -1,0 +1,44 @@
+# ROS2 build artifacts
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# C++
+*.o
+*.so
+*.dylib
+*.out
+*.app
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.backup
+*.old
+*~
+
+# RViz configs (optional - remove this line if you want to commit RViz configs)
+*.rviz
+
+# Gazebo
+.gazebo/
+
+# Temporary files
+*.tmp
+*.temp
