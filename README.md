@@ -9,9 +9,9 @@ A complete autonomous navigation system for a differential-drive mobile robot bu
 
 ## 🎥 Demo
 
-![Navigation Demo](media/demo.gif)
+![Navigation Demo](autonomous_robot/media/demo.gif)
 
-📹 **[Watch Full Demo Video (1:17)](media/autonomous-robot-navigation.mp4)**
+📹 **[Watch Full Demo Video (1:17)](autonomous_robot/media/autonomous-robot-navigation.mp4)**
 
 ### Key Features Shown:
 - ✅ Autonomous path planning around obstacles
@@ -22,13 +22,13 @@ A complete autonomous navigation system for a differential-drive mobile robot bu
 <summary>📸 More Screenshots</summary>
 
 ### Robot in Gazebo with Obstacles
-![Gazebo](media/robonav4.png)
+![Gazebo](autonomous_robot/media/robonav4.png)
 
 ### RViz Navigation View
-![RViz](media/robonav2.png)
+![RViz](autonomous_robot/media/robonav2.png)
 
 ### Successful Goal Reaching
-![Success](media/robonav3.png)
+![Success](autonomous_robot/media/robonav3.png)
 
 </details>
 
