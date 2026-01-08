@@ -163,7 +163,7 @@ mkdir -p ~/ros2_ws/src
 cd ~/ros2_ws/src
 
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/autonomous_robot.git
+git clone https://github.com/Thiruloksundar/autonomous_robot.git
 
 # Build
 cd ~/ros2_ws
